@@ -1,0 +1,6 @@
+@my_biography_HostAddress = http://localhost:5156
+
+GET {{my_biography_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
